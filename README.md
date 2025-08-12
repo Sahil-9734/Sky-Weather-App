@@ -33,10 +33,8 @@ I wanted to create a clean, modern, and responsive weather application that is e
 
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React.js *(optional: Bootstrap / Tailwind CSS)*
-- **API Source:** RapidAPI (OpenWeatherMap API / WeatherAPI)
-- **Tools:** Git, GitHub, Axios / Fetch API  
-- **Backend:** None (No server required)
-
+- **API Source:** OpenWeatherMap API
+- **Tools:** Git, GitHub,Fetch API
 ---
 
 ## ⚙️ Setup Instructions
