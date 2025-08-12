@@ -6,7 +6,7 @@
 ---
 
 ## 📄 Project Description
-The **Weather App** is built to provide quick and accurate weather updates using real-time data from APIs such as **OpenWeatherMap API** or **WeatherAPI** via **RapidAPI**.  
+The **Weather App** is built to provide quick and accurate weather updates using real-time data from APIs such as **OpenWeatherMap API** 
 Users can simply enter the name of a city, and the app will display the current weather details, including:
 - 🌡 **Temperature**
 - 🌤 **Weather Conditions** (Sunny, Cloudy, Rainy, etc.)
@@ -26,13 +26,12 @@ I wanted to create a clean, modern, and responsive weather application that is e
 ---
 
 ## 🌐 Live Demo
-- **Frontend (Live)**: ([sky-weathe.netlify.app](https://sky-weathe.netlify.app/) ) 
-- **Backend**: *Not applicable (API calls are made directly from frontend)*
+- **Frontend (Live)**: ([sky-weathe.netlify.app](https://sky-weathe.netlify.app/) )
 
 ---
 
 ## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js *(optional: Bootstrap / Tailwind CSS)*
+- **Frontend:** React.js , tailwindcss
 - **API Source:** OpenWeatherMap API
 - **Tools:** Git, GitHub,Fetch API
 ---
