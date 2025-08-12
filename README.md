@@ -1,12 +1,47 @@
-# React + Vite
+# 🌦 Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Title & Objective
+**Weather App** – A simple and responsive weather application that allows users to search for any city and get real-time weather information such as temperature, conditions, humidity, wind speed, and more.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📄 Project Description
+The **Weather App** is built to provide quick and accurate weather updates using real-time data from APIs such as **OpenWeatherMap API** or **WeatherAPI** via **RapidAPI**.  
+Users can simply enter the name of a city, and the app will display the current weather details, including:
+- 🌡 **Temperature**
+- 🌤 **Weather Conditions** (Sunny, Cloudy, Rainy, etc.)
+- 💧 **Humidity**
+- 📈 **Pressure**
+- 🌬 **Wind Speed**
+- 🏙 **City & Country Name**
 
-## Expanding the ESLint configuration
+**Why I built this project:**
+I wanted to create a clean, modern, and responsive weather application that is easy to use and works on all devices. It demonstrates API integration, responsive UI design, and efficient JavaScript functionality.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔗 GitHub Repository
+[[(https://github.com/Sahil-9734/Sky-Weather-App)]](https://github.com/Sahil-9734/Sky-Weather-App)
+
+---
+
+## 🌐 Live Demo
+- **Frontend (Live)**: ([sky-weathe.netlify.app](https://sky-weathe.netlify.app/) ) 
+- **Backend**: *Not applicable (API calls are made directly from frontend)*
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js *(optional: Bootstrap / Tailwind CSS)*
+- **API Source:** RapidAPI (OpenWeatherMap API / WeatherAPI)
+- **Tools:** Git, GitHub, Axios / Fetch API  
+- **Backend:** None (No server required)
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/weather-app.git
+cd weather-app
